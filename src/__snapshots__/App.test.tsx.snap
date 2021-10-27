@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> with camera renders correctly 1`] = `
+<div
+  class="App"
+>
+  <video
+    autoplay=""
+    class="App__video"
+  />
+</div>
+`;
+
+exports[`<App /> without camera renders correctly 1`] = `
+<div
+  class="App"
+>
+  <video
+    autoplay=""
+    class="App__video"
+  />
+</div>
+`;
